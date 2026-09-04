@@ -1,0 +1,15 @@
+{
+  "name": "hallofthegods/xophz-compass-polos",
+  "description": "Multi-scale fractal consensus engine with quadratic voting, liquid proxy delegation, Circle Web-of-Trust, and federated w4 cross-node governance.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Hall of the Gods, Inc.",
+      "homepage": "https://hallofthegods.com/"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}

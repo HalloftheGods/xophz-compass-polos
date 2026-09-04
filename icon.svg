@@ -1,0 +1,59 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- LAYER 1: Deep Space Circular Badge -->
+  <circle cx="256" cy="256" r="240" fill="#0D1B2A" stroke="#62C9FF" stroke-width="6" stroke-opacity="0.6"/>
+  <circle cx="256" cy="256" r="215" fill="none" stroke="#62C9FF" stroke-width="2" stroke-dasharray="8,6" stroke-opacity="0.4"/>
+  <circle cx="256" cy="256" r="170" fill="none" stroke="#FFC107" stroke-width="2" stroke-opacity="0.35"/>
+
+  <!-- LAYER 2: Fractal Orbital Constellation Nodes -->
+  <!-- Top North Star Node -->
+  <circle cx="256" cy="70" r="14" fill="#62C9FF"/>
+  <circle cx="256" cy="70" r="22" fill="none" stroke="#62C9FF" stroke-width="2" stroke-opacity="0.6"/>
+  
+  <!-- East & West Nodes -->
+  <circle cx="85" cy="256" r="10" fill="#62C9FF"/>
+  <circle cx="427" cy="256" r="10" fill="#FFC107"/>
+  <circle cx="256" cy="442" r="10" fill="#62C9FF"/>
+
+  <!-- Web of Trust Constellation Links -->
+  <line x1="256" y1="70" x2="160" y2="175" stroke="#62C9FF" stroke-width="2" stroke-opacity="0.5"/>
+  <line x1="256" y1="70" x2="352" y2="175" stroke="#FFC107" stroke-width="2" stroke-opacity="0.5"/>
+  <line x1="160" y1="175" x2="85" y2="256" stroke="#62C9FF" stroke-width="2" stroke-opacity="0.4"/>
+  <line x1="352" y1="175" x2="427" y2="256" stroke="#FFC107" stroke-width="2" stroke-opacity="0.4"/>
+  <line x1="85" y1="256" x2="160" y2="337" stroke="#62C9FF" stroke-width="2" stroke-opacity="0.4"/>
+  <line x1="427" y1="256" x2="352" y2="337" stroke="#FFC107" stroke-width="2" stroke-opacity="0.4"/>
+  <line x1="160" y1="337" x2="256" y2="442" stroke="#62C9FF" stroke-width="2" stroke-opacity="0.5"/>
+  <line x1="352" y1="337" x2="256" y2="442" stroke="#FFC107" stroke-width="2" stroke-opacity="0.5"/>
+
+  <!-- Inner Pod Clusters -->
+  <circle cx="160" cy="175" r="7" fill="#62C9FF"/>
+  <circle cx="352" cy="175" r="7" fill="#FFD54F"/>
+  <circle cx="160" cy="337" r="7" fill="#81D4FA"/>
+  <circle cx="352" cy="337" r="7" fill="#FFA000"/>
+
+  <!-- LAYER 3: Drafting Compass & Polaris Star Emblem -->
+  <!-- Compass Needle Arms -->
+  <polygon points="256,52 278,245 256,232" fill="#E2F1FF"/>
+  <polygon points="256,52 234,245 256,232" fill="#90CAF9"/>
+  <polygon points="256,460 274,267 256,280" fill="#0288D1"/>
+  <polygon points="256,460 238,267 256,280" fill="#01579B"/>
+
+  <polygon points="52,256 245,234 232,256" fill="#81D4FA"/>
+  <polygon points="52,256 245,278 232,256" fill="#29B6F6"/>
+  <polygon points="460,256 267,238 280,256" fill="#FFCA28"/>
+  <polygon points="460,256 267,274 280,256" fill="#FF8F00"/>
+
+  <!-- Angled Star Points -->
+  <polygon points="112,112 245,225 225,245" fill="#4FC3F7" opacity="0.8"/>
+  <polygon points="400,112 267,225 287,245" fill="#FFE082" opacity="0.8"/>
+  <polygon points="112,400 245,287 225,267" fill="#0277BD" opacity="0.8"/>
+  <polygon points="400,400 267,287 287,267" fill="#FF6F00" opacity="0.8"/>
+
+  <!-- Central Pivot Core (The True North Polos) -->
+  <circle cx="256" cy="256" r="38" fill="#0A192F" stroke="#62C9FF" stroke-width="4"/>
+  <circle cx="256" cy="256" r="24" fill="#1E3A5F" stroke="#FFC107" stroke-width="3"/>
+  <circle cx="256" cy="256" r="10" fill="#E2F1FF"/>
+  <circle cx="256" cy="256" r="4" fill="#62C9FF"/>
+
+  <!-- Tilted Orbital Ring -->
+  <ellipse cx="256" cy="256" rx="145" ry="42" fill="none" stroke="#FFD54F" stroke-width="3" transform="rotate(-30 256 256)" stroke-opacity="0.85"/>
+</svg>
