@@ -8,7 +8,7 @@
  * @package           Xophz_Compass_Polos
  *
  * @wordpress-plugin
- * Category:          Command Deck
+ * Category:          True North 
  * Group:             Governance
  * Plugin Name:       Xophz POLOS 
  * Plugin URI:        https://github.com/HalloftheGods/xophz-compass-polos
