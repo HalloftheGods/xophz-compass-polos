@@ -14,8 +14,8 @@
  * Plugin URI:        https://github.com/HalloftheGods/xophz-compass-polos
  * Description:       Multi-scale fractal consensus engine with quadratic voting, liquid proxy delegation, Circle Web-of-Trust, and federated w⁴ cross-node governance.
  * Version:           26.9.22
- * Author:            Hall of the Gods, Inc.
- * Author URI:        https://hallofthegods.com/
+ * Author:            My Compass Consulting
+ * Author URI:        https://mycompassconsulting.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       xophz-compass-polos
